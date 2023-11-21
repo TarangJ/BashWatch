@@ -1,0 +1,31 @@
+# LinuxScriptingProj
+
+**System Monitoring Tool**
+
+This is a basic system monitoring tool written in Bash that displays information about CPU usage, memory usage, and disk space using the top, ps, and df commands.
+
+**Usage**
+
+**Clone the Repository**
+
+git clone https://github.com/TarangJ/system-monitoring-tool.git
+cd system-monitoring-tool
+
+**Make the Script Executable:**
+                  chmod +x monitor.sh
+
+**Run the Script:**
+                ./monitor.sh
+**Functionality:**
+The script provides information on CPU usage, memory usage, and disk space.
+CPU usage is obtained using the top command.
+Memory usage is obtained using the free command.
+Disk space information is obtained using the df command.
+
+**Notes**
+Ensure that you have the necessary permissions to run the script. If needed, use sudo:
+sudo ./monitor.sh
+The script may require adjustments based on your system configuration and user permissions.
+
+License
+This project is licensed under the MIT License.
