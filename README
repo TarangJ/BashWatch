@@ -16,6 +16,7 @@ cd system-monitoring-tool
 
 **Run the Script:**
                 ./monitor.sh
+
 **Functionality:**
 The script provides information on CPU usage, memory usage, and disk space.
 CPU usage is obtained using the top command.
@@ -26,6 +27,9 @@ Disk space information is obtained using the df command.
 Ensure that you have the necessary permissions to run the script. If needed, use sudo:
 sudo ./monitor.sh
 The script may require adjustments based on your system configuration and user permissions.
+
+**Contribution**
+Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
 License
 This project is licensed under the MIT License.
