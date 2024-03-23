@@ -8,7 +8,7 @@ This is a basic system monitoring tool written in Bash that displays information
 
 **Clone the Repository**
 
-git clone https://github.com/TarangJ/system-monitoring-tool.git
+git clone https://github.com/TarangJ/BashWatch.git
 cd system-monitoring-tool
 
 **Make the Script Executable:**
